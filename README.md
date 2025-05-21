@@ -1,1 +1,1 @@
-Esta es una app que muestra una tarjeta didactica con el tema del día de la madre
+Esta es una app que muestra un quiz con preguntas sobre el curso de App Moviles.
